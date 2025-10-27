@@ -5,5 +5,5 @@ The results showed that CNN had the highest accuracy of 87.9\% and LSTM with the
 ## Methodology
 ![Methodology](images/Picture2.png)
 ## Data Preprocessing
-[For the complete code go here](Link URL or Path)
+[For the complete code go here](code/FAKA%20NEWS%20DETECTION%20CODE.ipynb)
 
